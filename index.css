@@ -70,3 +70,40 @@ body {
     background-color:rgb(76 175 80);
     color:white;
 }
+.wrapper {
+    width:600px;
+    margin:50px auto;
+    display: table;
+    font-family: arial;  
+}
+.table-1,.table-2{ 
+    width:100%;  
+    display: table;
+    border-collapse: collapse;
+    margin-bottom:30px;
+}
+.table-1 tr {
+    height: 36px;
+    text-align: left;
+    border:1px solid rgb(221,221,221);
+}
+.table-1 .first-row {
+    background-color: rgb(76,175,80);
+    color:white; 
+}
+.table-1 .second-row,.fourth-row,.sixth-row {
+    background-color:  rgb(241,241,241);
+}
+.table-1 .third-row,.fifth-row {
+    background-color:  rgb(255,255,255);
+}
+.table-2 tr {
+    height: 36px;
+    text-align: left;
+}
+.table-2 .second-row,.fourth-row,.sixth-row {
+    background-color:  rgb(241,241,241);
+}
+.table-2 .third-row,.fifth-row {
+    background-color:  rgb(255,255,255);
+}

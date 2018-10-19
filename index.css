@@ -1,7 +1,15 @@
 body {
    margin:0px 0px; 
 }
-
+.left-part {
+    width:700px;
+    float: left;
+    height: 800px;
+}
+.right-part {
+    width:900px;
+    float: left;
+}
 .header {
     width: 600px;
     display: block;
@@ -36,8 +44,9 @@ body {
 .yangshi {
     text-align: center;
     display: block;
-    margin-left:calc(10% - 460px);
+    margin-left:calc(50% - 410px);
     line-height: 1;
+    width:800px;
 }
 .yangshi > a {
     padding:10px;
@@ -106,4 +115,58 @@ body {
 }
 .table-2 .third-row,.fifth-row {
     background-color:  rgb(255,255,255);
+}
+.triangle {
+    width:1px;
+    height:1px;
+    display:block;
+    margin: 20px auto;
+}
+.triangle1 { 
+    border-bottom:20px solid green;
+    border-top: 20px solid blue;
+    border-left: 20px solid red;
+    border-right: 20px solid yellow;
+}
+.triangle2 {
+    margin-top: 25px;
+    border-top:20px solid blue;
+    border-bottom:20px solid white;
+    border-left: 20px solid white;
+    border-right: 20px solid white;
+}
+.triangle3 {
+    margin-top: 25px;
+    border-top:20px solid white;
+    border-bottom:20px solid white;
+    border-left: 20px solid red;
+    border-right: 20px solid white;    
+}
+.triangle4 {
+    margin-top: 25px;
+    border-top:20px solid white;
+    border-bottom:20px solid white;
+    border-left: 20px solid white;
+    border-right: 20px solid yellow;    
+}
+.triangle5 {
+    margin-top: 25px;
+    border-top:20px solid white;
+    border-bottom:20px solid green;
+    border-left: 20px solid white;
+    border-right: 20px solid white;    
+}
+.triangle6 {
+    margin-top: 25px;
+    border-top:15px solid white;
+    border-bottom:15px solid red;
+    border-left: 15px solid red;
+    border-right: 15px solid white;    
+}
+.triangle7 {
+    margin-top: 25px;
+    border-top:15px solid white;
+    border-bottom:15px solid green;
+    border-left: 15px solid white;
+    border-right: 15px solid green;    
 }

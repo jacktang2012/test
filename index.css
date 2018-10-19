@@ -2,12 +2,12 @@ body {
    margin:0px 0px; 
 }
 .left-part {
-    width:700px;
+    width:20%;
     float: left;
     height: 800px;
 }
 .right-part {
-    width:900px;
+    width:60%;
     float: left;
 }
 .header {

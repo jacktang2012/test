@@ -1,172 +1,172 @@
 body {
-   margin:0px 0px; 
-}
-.left-part {
-    width:20%;
-    float: left;
-    height: 800px;
-}
-.right-part {
-    width:60%;
-    float: left;
-}
-.header {
-    width: 600px;
-    display: block;
-    margin:0 auto;
-}
-.header > div {
-    margin-top:30px;
-    line-height: 1.5;
-    padding:17px 34px 17px 16px;
-}
-.style1 {
-    border:1px solid rgb(204,204,204);   
-    border-radius: 4px; 
-}
-.style2 {
-    border-left: 6px solid rgb(244 67 54);
-    border-right: 6px solid rgb(244 67 54);
-    background-color:rgb(255 231 231);
-}
-.style3 {
-    border-top:6px solid rgb(255,235,59);
-    border-bottom:7px solid rgb(255,235,59);
-    background-color: rgb(255,255,215);
-}
-.style4 {
-    border-top:1px solid rgb(76 175 80);
-    border-left:1px solid rgb(76 175 80);
-    border-right:1px solid rgb(76 175 80);
-    border-bottom:7px solid rgb(76 175 80);
-    background-color:rgb(231 255 231);
-}
-.yangshi {
-    text-align: center;
-    display: block;
-    margin-left:calc(50% - 410px);
-    line-height: 1;
-    width:800px;
-}
-.yangshi > a {
-    padding:10px;
-    border-radius: 3px;
-    margin:6px 1px;
-    display: inline-block;
-    text-decoration: none;
-}
-.yangshi>a:hover {
-    box-shadow:  0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-.steal {
-    color:white;
-    background-color:rgb(0 150 136);
-
-}
-.yellow {
-    background-color:rgb(255 235 59);
-    color:black;
-}
-.orange {
-    background-color:rgb(255 152 0);
-    color:black;
-}
-.red {
-    background-color:rgb(244 67 54);
-    color:white;
-}
-.green {
-    background-color:rgb(76 175 80);
-    color:white;
-}
-.wrapper {
-    width:600px;
-    margin:50px auto;
-    display: table;
-    font-family: arial;  
-}
-.table-1,.table-2{ 
-    width:100%;  
-    display: table;
-    border-collapse: collapse;
-    margin-bottom:30px;
-}
-.table-1 tr {
-    height: 36px;
-    text-align: left;
-    border:1px solid rgb(221,221,221);
-}
-.table-1 .first-row {
-    background-color: rgb(76,175,80);
-    color:white; 
-}
-.table-1 .second-row,.fourth-row,.sixth-row {
-    background-color:  rgb(241,241,241);
-}
-.table-1 .third-row,.fifth-row {
-    background-color:  rgb(255,255,255);
-}
-.table-2 tr {
-    height: 36px;
-    text-align: left;
-}
-.table-2 .second-row,.fourth-row,.sixth-row {
-    background-color:  rgb(241,241,241);
-}
-.table-2 .third-row,.fifth-row {
-    background-color:  rgb(255,255,255);
-}
-.triangle {
-    width:1px;
-    height:1px;
-    display:block;
-    margin: 20px auto;
-}
-.triangle1 { 
-    border-bottom:20px solid green;
-    border-top: 20px solid blue;
-    border-left: 20px solid red;
-    border-right: 20px solid yellow;
-}
-.triangle2 {
-    margin-top: 25px;
-    border-top:20px solid blue;
-    border-bottom:20px solid white;
-    border-left: 20px solid white;
-    border-right: 20px solid white;
-}
-.triangle3 {
-    margin-top: 25px;
-    border-top:20px solid white;
-    border-bottom:20px solid white;
-    border-left: 20px solid red;
-    border-right: 20px solid white;    
-}
-.triangle4 {
-    margin-top: 25px;
-    border-top:20px solid white;
-    border-bottom:20px solid white;
-    border-left: 20px solid white;
-    border-right: 20px solid yellow;    
-}
-.triangle5 {
-    margin-top: 25px;
-    border-top:20px solid white;
-    border-bottom:20px solid green;
-    border-left: 20px solid white;
-    border-right: 20px solid white;    
-}
-.triangle6 {
-    margin-top: 25px;
-    border-top:15px solid white;
-    border-bottom:15px solid red;
-    border-left: 15px solid red;
-    border-right: 15px solid white;    
-}
-.triangle7 {
-    margin-top: 25px;
-    border-top:15px solid white;
-    border-bottom:15px solid green;
-    border-left: 15px solid white;
-    border-right: 15px solid green;    
-}
+    margin:0px 0px; 
+ }
+ .left-part {
+     width:20%;
+     float: left;
+     height: 800px;
+ }
+ .right-part {
+     width:60%;
+     float: left;
+ }
+ .header {
+     width: 600px;
+     display: block;
+     margin:0 auto;
+ }
+ .header > div {
+     margin-top:30px;
+     line-height: 1.5;
+     padding:17px 34px 17px 16px;
+ }
+ .style1 {
+     border:1px solid rgb(204,204,204);   
+     border-radius: 4px; 
+ }
+ .style2 {
+     border-left: 6px solid rgb(244,67,54);
+     border-right: 6px solid rgb(244,67,54);
+     background-color:rgb(255,231,231);
+ }
+ .style3 {
+     border-top:6px solid rgb(255,235,59);
+     border-bottom:7px solid rgb(255,235,59);
+     background-color: rgb(255,255,215);
+ }
+ .style4 {
+     border-top:1px solid rgb(76,175,80);
+     border-left:1px solid rgb(76,175,80);
+     border-right:1px solid rgb(76,175,80);
+     border-bottom:7px solid rgb(76,175,80);
+     background-color:rgb(231,255,231);
+ }
+ .yangshi {
+     text-align: center;
+     display: block;
+     margin-left:calc(50% - 410px);
+     line-height: 1;
+     width:800px;
+ }
+ .yangshi > a {
+     padding:10px;
+     border-radius: 3px;
+     margin:6px 1px;
+     display: inline-block;
+     text-decoration: none;
+ }
+ .yangshi>a:hover {
+     box-shadow:  0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ .steal {
+     color:white;
+     background-color:rgb(0,150,136);
+ 
+ }
+ .yellow {
+     background-color:rgb(255,235,59);
+     color:black;
+ }
+ .orange {
+     background-color:rgb(255,152,0);
+     color:black;
+ }
+ .red {
+     background-color:rgb(244,67,54);
+     color:white;
+ }
+ .green {
+     background-color:rgb(76,175,80);
+     color:white;
+ }
+ .wrapper {
+     width:600px;
+     margin:50px auto;
+     display: table;
+     font-family: arial;  
+ }
+ .table-1,.table-2{ 
+     width:100%;  
+     display: table;
+     border-collapse: collapse;
+     margin-bottom:30px;
+ }
+ .table-1 tr {
+     height: 36px;
+     text-align: left;
+     border:1px solid rgb(221,221,221);
+ }
+ .table-1 .first-row {
+     background-color: rgb(76,175,80);
+     color:white; 
+ }
+ .table-1 .second-row,.fourth-row,.sixth-row {
+     background-color:  rgb(241,241,241);
+ }
+ .table-1 .third-row,.fifth-row {
+     background-color:  rgb(255,255,255);
+ }
+ .table-2 tr {
+     height: 36px;
+     text-align: left;
+ }
+ .table-2 .second-row,.fourth-row,.sixth-row {
+     background-color:  rgb(241,241,241);
+ }
+ .table-2 .third-row,.fifth-row {
+     background-color:  rgb(255,255,255);
+ }
+ .triangle {
+     width:1px;
+     height:1px;
+     display:block;
+     margin: 20px auto;
+ }
+ .triangle1 { 
+     border-bottom:20px solid green;
+     border-top: 20px solid blue;
+     border-left: 20px solid red;
+     border-right: 20px solid yellow;
+ }
+ .triangle2 {
+     margin-top: 25px;
+     border-top:20px solid blue;
+     border-bottom:20px solid white;
+     border-left: 20px solid white;
+     border-right: 20px solid white;
+ }
+ .triangle3 {
+     margin-top: 25px;
+     border-top:20px solid white;
+     border-bottom:20px solid white;
+     border-left: 20px solid red;
+     border-right: 20px solid white;    
+ }
+ .triangle4 {
+     margin-top: 25px;
+     border-top:20px solid white;
+     border-bottom:20px solid white;
+     border-left: 20px solid white;
+     border-right: 20px solid yellow;    
+ }
+ .triangle5 {
+     margin-top: 25px;
+     border-top:20px solid white;
+     border-bottom:20px solid green;
+     border-left: 20px solid white;
+     border-right: 20px solid white;    
+ }
+ .triangle6 {
+     margin-top: 25px;
+     border-top:15px solid white;
+     border-bottom:15px solid red;
+     border-left: 15px solid red;
+     border-right: 15px solid white;    
+ }
+ .triangle7 {
+     margin-top: 25px;
+     border-top:15px solid white;
+     border-bottom:15px solid green;
+     border-left: 15px solid white;
+     border-right: 15px solid green;    
+ }
